@@ -1,2 +1,1 @@
-# Coding-Practice
-This repo is my solutions to coding questions
+This repo contains my solutions to coding questions mostly from [DCP](https://www.dailycodingproblem.com)
